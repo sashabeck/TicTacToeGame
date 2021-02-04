@@ -4,6 +4,7 @@ public class mainClass {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Sasha's Tic-Tac-Toe game.");
+		System.out.print("Make a move");
 	
 		TicTacToeGame game1 = new TicTacToeGame();
 		
